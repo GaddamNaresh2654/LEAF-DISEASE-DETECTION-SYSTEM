@@ -8,9 +8,6 @@
 
 An enterprise-grade AI-powered leaf disease detection system featuring a dual-interface architecture: a FastAPI backend service and an interactive Streamlit web application. Built with Meta's Llama Vision models via Groq API, this system provides accurate disease identification, severity assessment, and actionable treatment recommendations for agricultural and horticultural applications.
 
-## System Demo
-
-![Leaf Disease Detection Demo](https://github.com/shukur-alom/leaf-diseases-detect/blob/main/Media/video.gif)
 
 *Experience the power of AI-driven plant health analysis in action*
 
@@ -421,42 +418,12 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Streamlit**: Interactive web application framework
 - **Python Ecosystem**: NumPy, Pillow, and other supporting libraries
 
-## 📞 Support & Community
-
-### Getting Help
-- **📚 Documentation**: Complete guides in this README
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/shukur-alom/leaf-diseases-detect/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
-- **👥 Community**: Join our developer community for collaboration
-
 ### Professional Support
 - **Commercial Licensing**: Contact for enterprise deployment options
 - **Custom Development**: Specialized features and integrations available
 - **Training & Consulting**: AI model optimization and deployment guidance
 - **Technical Support**: Priority support packages for production deployments
 
-### Contact Information
-- **Project Maintainer**: [@shukur-alom](https://github.com/shukur-alom)
-- **Project Repository**: [leaf-diseases-detect](https://github.com/shukur-alom/leaf-diseases-detect)
-- **Issue Tracking**: GitHub Issues for bug reports and feature requests
-- **Email Support**: Available through GitHub contact options
-
-## 🔗 Related Resources & References
-
-### Academic Research
-- [Plant Disease Classification Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-- [Computer Vision in Agriculture: A Review](https://doi.org/10.1016/j.compag.2020.105589)
-- [Deep Learning for Plant Disease Detection](https://doi.org/10.3389/fpls.2019.01419)
-
-### APIs & Services
-- [PlantNet API](https://my.plantnet.org/) - Plant identification service
-- [Groq API Documentation](https://console.groq.com/docs) - AI inference platform
-- [Meta Llama Models](https://ai.meta.com/llama/) - Vision-language models
-
-### Open Source Projects
-- [Plant Disease Detection Models](https://github.com/topics/plant-disease-detection)
-- [Agricultural AI Tools](https://github.com/topics/precision-agriculture)
-- [Computer Vision Agriculture](https://github.com/topics/computer-vision-agriculture)
 
 ## ⚡ Performance & Scalability
 
@@ -482,8 +449,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ![Plant Health](https://img.shields.io/badge/Plant%20Health-AI%20Powered-brightgreen?style=for-the-badge&logo=leaf)
 ![Precision Agriculture](https://img.shields.io/badge/Precision%20Agriculture-Innovation-orange?style=for-the-badge&logo=agriculture)
-
-[🚀 **Live Demo**](https://leaf-diseases-detect5.streamlit.app) • [🐛 **Report Issues**](https://github.com/shukur-alom/leaf-diseases-detect/issues) • [💡 **Request Features**](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
 
 **Star ⭐ this repository if it helped you protect your plants!**
 
